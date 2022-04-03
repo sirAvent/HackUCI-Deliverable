@@ -4,4 +4,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## This is my deliverable for the Hack at UCI application!
-- First ever React app
+- my first ever React app
+- had lots of fun learning how to use React
