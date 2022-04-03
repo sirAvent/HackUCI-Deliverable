@@ -1,0 +1,25 @@
+.subBtn {
+      background-image: linear-gradient(to right, #ff7b5c,#ff7b5c, #ff7b5c,#ff6c81, #ff6c81);
+}
+
+.appText {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.short-title { display: none; }
+
+.title{
+    font-size:x-large;
+    font-weight:bold;
+}
+
+.appSquare {
+    border-radius: 50px;
+}
+@media (max-width: 767px) {
+    #subBtn {
+      background-image: linear-gradient(#ff7b5c, #ff7b5c,#ff6c81, #ff6c81);
+    }
+    .short-title { display: inline-block; }
+    .full-title { display: none; }
+}
