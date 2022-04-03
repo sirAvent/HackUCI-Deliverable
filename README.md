@@ -4,6 +4,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## This is my deliverable for the Hack at UCI application!
-- ### A form submittion application
+- A form submittion application
 - my first ever React app
 - had lots of fun learning how to use React
