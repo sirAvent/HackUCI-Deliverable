@@ -1,3 +1,4 @@
+import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import SimpleForm from "./components/SimpleForm";
 import {Row, Col} from 'react-bootstrap';
