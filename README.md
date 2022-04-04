@@ -1,5 +1,6 @@
 # Hack at UCI: Tech Team Deliverable (2022-2023)
 - original credits: Lasse Nordahl
+- Hack at UCI Logo: Hack at UCI
 
 Deliverable web-app created for Hack at UCI.
 Built using ReactJS, React Bootstrap, HTML, and CSS
