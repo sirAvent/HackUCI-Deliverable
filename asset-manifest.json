@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HackUCI-Deliverable/static/css/main.a861534c.css",
+    "main.css": "/HackUCI-Deliverable/static/css/main.7f8517bf.css",
     "main.js": "/HackUCI-Deliverable/static/js/main.0ce5ad32.js",
     "static/js/787.a6bdc7fe.chunk.js": "/HackUCI-Deliverable/static/js/787.a6bdc7fe.chunk.js",
     "index.html": "/HackUCI-Deliverable/index.html",
-    "main.a861534c.css.map": "/HackUCI-Deliverable/static/css/main.a861534c.css.map",
+    "main.7f8517bf.css.map": "/HackUCI-Deliverable/static/css/main.7f8517bf.css.map",
     "main.0ce5ad32.js.map": "/HackUCI-Deliverable/static/js/main.0ce5ad32.js.map",
     "787.a6bdc7fe.chunk.js.map": "/HackUCI-Deliverable/static/js/787.a6bdc7fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a861534c.css",
+    "static/css/main.7f8517bf.css",
     "static/js/main.0ce5ad32.js"
   ]
 }
