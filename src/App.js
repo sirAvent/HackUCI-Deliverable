@@ -7,7 +7,7 @@ import logo from './images/hack-at-uci-logo.png';
 function App() {
     return (
       <div>
-        <div className="bigPad" style={{paddingTop:"20vh"}}>
+        <div className="bigPad" style={{paddingTop:"10%"}}>
           <Row><Col lg={1} md={1} xs={1}></Col></Row>
         </div>
         <Row>
