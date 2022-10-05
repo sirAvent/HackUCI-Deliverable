@@ -21,3 +21,6 @@ https://siravent.github.io/HackUCI-Deliverable/
 
 ## Full Requirements for Deliverable
 https://hackatuci.notion.site/Hack-at-UCI-Tech-Team-Deliverable-2022-2023-d539e16b36d34cf7bcedcd7b4f9f016e
+
+# Acknowledgement
+ReadMe format orignally from @taesungh 
